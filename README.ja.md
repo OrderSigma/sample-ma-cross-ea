@@ -98,9 +98,9 @@
 
 - 下の GIF は、本 EA がどのように取引を実行するかを示す視覚的な参考資料です。本 EA はあくまでポートフォリオ用サンプルであるため、詳細なバックテストは行っていません。
 
-<img src="images/SampleEA_GIF_Journal18f150_64d_nodither_l20.gif" width="700">
+<img src="images/SampleEA_GIF_Journal18f150_64d_nodither_l20.gif" width="700" alt="ジャーナルタブのプレビュー">
 
-<img src="images/SampleEA_GIF_Results18f200_256_nodither_l20.gif" width="700">
+<img src="images/SampleEA_GIF_Results18f200_256_nodither_l20.gif" width="700" alt="リザルトタブのプレビュー">
 
 ## 6. 動作環境
 
