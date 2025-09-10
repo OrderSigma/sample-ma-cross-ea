@@ -84,9 +84,9 @@
 
 - The GIF below is a visual reference that demonstrates how the EA executes trades. Because this EA is intended solely as a portfolio sample, no detailed backtesting has been performed.
 
-<img src="images/SampleEA_GIF_Journal18f150_64d_nodither_l20.gif" width="700">
+<img src="images/SampleEA_GIF_Journal18f150_64d_nodither_l20.gif" width="700" alt="Journal tab preview">
 
-<img src="images/SampleEA_GIF_Results18f200_256_nodither_l20.gif" width="700">
+<img src="images/SampleEA_GIF_Results18f200_256_nodither_l20.gif" width="700" alt="Results tab preview">
 
 ## 6. Requirements
 
